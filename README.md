@@ -11,12 +11,11 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rafael-Dutra-create&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 #
 ## MEUS PROJETOS
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Dutra-create&repo=Portifolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Rafael-Dutra-create/Portifolio)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Dutra-create&repo=Lista-de-Tarefas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Rafael-Dutra-create/Lista-de-Tarefas)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Dutra-create&repo=Cronometro&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Rafael-Dutra-create/Cronometro)
-
+| | |
+| ------------- | ------------- |
+|[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Dutra-create&repo=Portifolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Rafael-Dutra-create/Portifolio)|[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Dutra-create&repo=Lista-de-Tarefas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Rafael-Dutra-create/Lista-de-Tarefas)|
+|[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Dutra-create&repo=Cronometro&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Rafael-Dutra-create/Cronometro)|
 #
 
 <picture>
